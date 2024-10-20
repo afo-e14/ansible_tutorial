@@ -2,7 +2,8 @@
 
 # Ansible Training Documentation
 
-Welcome to my Ansible Training Documentation repository! This project is dedicated to documenting my learning journey as I explore key aspects of Ansible.
+Welcome to my Personal Ansible Training Documentation repository! 
+This project is dedicated to documenting my learning journey as I explore key aspects of Ansible.
 
 ## Purpose
 
@@ -19,10 +20,16 @@ This repository aims to capture and share the knowledge, techniques, and best pr
 
 ## How to Use
 
-Feel free to browse through the documentation. If you find any useful information or have suggestions for improvement, contributions are welcome!
+Feel free to browse through the documentation. 
+
+If you find any useful information or have suggestions for improvement, contributions are welcome!
 
 ## Get Involved
 
 If you are also learning Ansible or have experience with it, I would love to connect! You can reach out via issues or pull requests.
 
 Happy learning!
+
+
+Thanks 
+Afonzo!
